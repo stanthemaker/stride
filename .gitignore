@@ -1,0 +1,8 @@
+*.h5
+*.npz
+*.npy
+*.png
+*.jpg
+*.log
+*.mat
+mosaic-workspace/

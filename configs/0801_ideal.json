@@ -1,0 +1,26 @@
+{
+    "dx": 0.6e-3,
+    "cfl": 0.5,
+    "foldername": "0801_ideal",
+    "num_source": 256,
+    "num_receiver": 512,
+    "num_iters": 32,
+    "max_freqs": [
+        0.05e6,
+        0.1e6,
+        0.15e6,
+        0.2e6,
+        0.25e6,
+        0.3e6
+    ],
+    "prior_range": [
+        1400,
+        1600
+    ],
+    "batchsize": 8,
+    "source_centerfreq": 0.25e6,
+    "map_path": "/home/stan/data/stride/stride_examples/tutorials/data/maps/realmap.npy",
+    "acq_folder": "/home/stan/data/stride/stride_examples/tutorials/data/acquisitions",
+    "acq_name": "",
+    "noise_type": "none"
+}

@@ -1,0 +1,10 @@
+{
+    "dx": 0.6e-3,
+    "cfl": 0.5,
+    "foldername": "0713_real_2",
+    "num_source": 1,
+    "num_receiver": 256,
+    "batchsize": 8,
+    "source_centerfreq": 0.02e6,
+    "map_path": "/home/stan/data/stride/stride_examples/tutorials/data/maps/realmap.npy"
+}
